@@ -33,6 +33,7 @@ public class BooksDbCls {
 
         } catch (SQLException e) {
             e.printStackTrace();
+            System.out.println("oracle github");
         }
     }
 }
